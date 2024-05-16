@@ -1,6 +1,11 @@
 import java.io.*;
 import java.net.*;
 
+// This is to be implemented later,
+// once I've opened up Threads for the main,
+// I'll work to apply the Client Connection Thread Nodes
+// Also plan to add Javadoc Later lol
+
 public class connection implements Runnable{
 
     private Socket socket;
