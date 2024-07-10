@@ -1,7 +1,7 @@
 # Java-Webserver
 a basic Webserver application meant for a private client
 
-1.0 stable release is out!
+v1.0.0 stable release is out!
 The Build is now threaded and supports .html file acquisition from a local browser!
 
 Meant to be compiled on a terminal with Java
